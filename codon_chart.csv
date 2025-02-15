@@ -1,0 +1,10 @@
+﻿Phe,Leu,Ile,Met,Val,Ser,Pro,Thr,Ala,Tyr,STOP,His,Gln,Asn,Lys,Asp,Glu,Cys,Trp,Arg,Gly
+F,L,I,M,V,S,P,T,A,Y,*,H,Q,N,K,D,E,C,W,R,G
+UUU,UUA,AUU,AUG,GUU,UCU,CCU,ACU,GCU,UAU,UAA,CAU,CAA,AAU,AAA,GAU,GAA,UGU,UGG,CGU,GGU
+UUC,UUG,AUC,,GUC,UCC,CCC,ACC,GCC,UAC,UAG,CAC,CAG,AAC,AAG,GAC,GAG,UGC,,CGC,GGC
+,CUU,AUA,,GUA,UCA,CCA,ACA,GCA,,UGA,,,,,,,,,CGA,GGA
+,CUC,,,GUG,UCG,CCG,ACG,GCG,,,,,,,,,,,CGG,GGG
+,CUA,,,,AGU,,,,,,,,,,,,,,AGA,
+,CUG,,,,AGC,,,,,,,,,,,,,,AGG,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
